@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap');
+
+ text{
+    font-family: 'Castoro Titling', cursive;
+ }
+
+:root{
+    --bgColor: #de1f01;
+    --textColor: white;
+}
+
