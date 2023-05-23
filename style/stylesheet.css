@@ -14,3 +14,28 @@
     --textColor: white;
 }
 
+h1{
+    margin-top: 5%;
+}
+
+main{
+    text-align: center;
+}
+
+#back{
+    background: url(images/) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-blend-mode: luminosity;
+    background-color: black;
+    
+}  
+
+#profile{
+    border-radius: 50%;
+    width: 19rem;
+    height: 19rem;
+    margin-top: -30%;
+}
+
